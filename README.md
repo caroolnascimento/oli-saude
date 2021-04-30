@@ -6,7 +6,7 @@ Test - Backend Developer Challenge Oli Saúde
 
 
 Aplicação em NODE.JS![NODEJS](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
-com Express[EXPRESSJS](https://img.shields.io/badge/-Express.js-787878?style=flat) e Mysql! ![MYSQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF) onde:
+com Express ![EXPRESSJS](https://img.shields.io/badge/-Express.js-787878?style=flat) e Mysql! ![MYSQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF) onde:
 
 
 Criei uma API simples para gerenciar Clientes.
