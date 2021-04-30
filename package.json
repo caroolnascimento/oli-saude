@@ -1,0 +1,30 @@
+{
+  "name": "oli-saude",
+  "version": "1.0.0",
+  "description": "Test - Backend Developer Challenge Oli Saúde",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caroolnascimento/oli-saude.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caroolnascimento/oli-saude/issues"
+  },
+  "homepage": "https://github.com/caroolnascimento/oli-saude#readme"
+}
